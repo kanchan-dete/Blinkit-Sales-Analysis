@@ -36,9 +36,15 @@ This project analyzes **Blinkit grocery sales data** to understand product perfo
 
 | File | Description |
 |------|--------------|
-| `Blinkit_Dashboard.pbix` | Power BI Dashboard file |
+| `Blinkit_Dashboard.png` | Power BI Dashboard file |
 | `BlinkIT Grocery Data.xlsx` | Dataset used for analysis |
 | `README.md` | Project documentation |
+
+---
+## 📸 Dashbaord Snapshots
+
+-- Power-Bi
+<img width="1308" height="741" alt="Screenshot 2025-10-12 213337" src="https://github.com/user-attachments/assets/28373823-087e-422e-9cda-35b9aee419bd" />
 
 ---
 
