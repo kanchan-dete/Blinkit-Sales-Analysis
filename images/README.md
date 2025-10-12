@@ -8,7 +8,7 @@ These images provide a preview of the dashboards without needing to download the
 ## 📂 Files in this Folder
 
 - 📈 **powerbi_dashboard.png**  
-  Screenshot of the **Power BI Bank Loan Analysis Dashboard** (interactive visualizations, KPIs, and maps).  
+  Screenshot of the **Power BI Blinkit Dashboard** (interactive visualizations, KPIs, and maps).  
 
 ---
 
